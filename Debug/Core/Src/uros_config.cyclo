@@ -1,0 +1,13 @@
+../Core/Src/uros_config.cpp:101:6:void on_take_sub_cb(const void*)	3
+../Core/Src/uros_config.cpp:128:6:void on_flip_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:136:6:void on_put_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:142:6:void on_close_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:148:6:void on_align_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:155:6:void on_left_temp_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:163:6:void on_right_temp_sub_cb(const void*)	1
+../Core/Src/uros_config.cpp:176:5:int finish_take(SideIndex)	7
+../Core/Src/uros_config.cpp:200:5:int finish_flip(SideIndex)	7
+../Core/Src/uros_config.cpp:224:5:int finish_put(SideIndex)	7
+../Core/Src/uros_config.cpp:248:6:void race_start()	6
+../Core/Src/uros_config.cpp:268:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/uros_config.cpp:268:1:cpp)	1

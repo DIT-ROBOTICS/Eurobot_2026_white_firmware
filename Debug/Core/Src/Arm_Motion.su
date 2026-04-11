@@ -1,0 +1,22 @@
+../Core/Src/Arm_Motion.cpp:17:6:void Arm::init()	16	static
+../Core/Src/Arm_Motion.cpp:32:6:void Arm::update(int)	16	static
+../Core/Src/Arm_Motion.cpp:39:6:void Arm::sleep()	16	static
+../Core/Src/Arm_Motion.cpp:49:6:void Arm::wake_up()	16	static
+../Core/Src/Arm_Motion.cpp:53:6:void Arm::set_pinecone_stats(int*)	16	static
+../Core/Src/Arm_Motion.cpp:57:7:int* Arm::get_pinecone_stats()	16	static
+../Core/Src/Arm_Motion.cpp:61:5:int Arm::servo_do(ServoConfig_Name, int)	32	static
+../Core/Src/Arm_Motion.cpp:93:6:void Arm::do_and_wait(ServoConfig_Name, int, int)	32	static
+../Core/Src/Arm_Motion.cpp:109:6:void Arm::do_async(ServoConfig_Name, int, int)	32	static
+../Core/Src/Arm_Motion.cpp:119:6:void Arm::sync(int)	24	static
+../Core/Src/Arm_Motion.cpp:126:6:void Arm::set_MagGroup_stats(MagPos, int, int, int, int)	40	static
+../Core/Src/Arm_Motion.cpp:143:6:void Arm::set_AirPump_stats(GPIO_PinState)	16	static
+../Core/Src/Arm_Motion.cpp:147:6:void Arm::MagGroup_init_pose()	24	static
+../Core/Src/Arm_Motion.cpp:152:6:void Arm::arm_default_pose()	16	static
+../Core/Src/Arm_Motion.cpp:162:6:void Arm::servo_init_pose(int)	16	static
+../Core/Src/Arm_Motion.cpp:171:6:void Arm::mag_take_pinecone(MagPos)	56	static
+../Core/Src/Arm_Motion.cpp:180:6:void Arm::mag_put_pinecone(MagPos, int)	32	static
+../Core/Src/Arm_Motion.cpp:184:6:void Arm::mag_flip_pinecone(MagPos, FlipAction, int)	64	static
+../Core/Src/Arm_Motion.cpp:198:6:bool Arm::is_all_right()	24	static
+../Core/Src/Arm_Motion.cpp:207:6:bool Arm::is_all_wrong()	24	static
+../Core/Src/Arm_Motion.cpp:217:12:int flip(int)	16	static
+../Core/Src/Arm_Motion.cpp:221:12:int off(int)	16	static

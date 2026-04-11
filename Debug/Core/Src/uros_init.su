@@ -1,0 +1,13 @@
+../Core/Src/uros_init.cpp:31:6:void uros_init()	40	static
+../Core/Src/uros_init.cpp:49:6:void uros_agent_status_check()	8	static
+../Core/Src/uros_init.cpp:71:6:void handle_state_agent_waiting()	8	static
+../Core/Src/uros_init.cpp:74:6:void handle_state_agent_available()	8	static
+../Core/Src/uros_init.cpp:78:6:void handle_state_agent_connected()	8	static
+../Core/Src/uros_init.cpp:95:6:void handle_state_agent_trying()	8	static
+../Core/Src/uros_init.cpp:107:6:void handle_state_agent_disconnected()	8	static
+../Core/Src/uros_init.cpp:112:6:void uros_create_entities()	48	static
+../Core/Src/uros_init.cpp:135:6:void uros_destroy_entities()	24	static
+../Core/Src/uros_init.cpp:160:6:void subscription_init()	32	static
+../Core/Src/uros_init.cpp:170:6:void publisher_init()	16	static
+../Core/Src/uros_init.cpp:180:6:void HAL_GPIO_EXTI_Callback(uint16_t)	16	static
+../Core/Src/uros_init.cpp:190:5:int _gettimeofday(timeval*, void*)	16	static

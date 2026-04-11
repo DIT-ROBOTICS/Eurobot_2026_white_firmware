@@ -1,0 +1,9 @@
+../Core/Src/mission.cpp:61:6:void mission_init()	64	static
+../Core/Src/mission.cpp:83:6:void mission_updater(void*)	32	static
+../Core/Src/mission.cpp:100:6:void mission_deliveryman(int, MissionCaller*)	24	static
+../Core/Src/mission.cpp:112:6:void mission_executor(void*)	56	static
+../Core/Src/mission.cpp:144:6:void take_up_block(Arm*)	16	static
+../Core/Src/mission.cpp:162:6:void flip_block(Arm*)	16	static
+../Core/Src/mission.cpp:189:6:void put_down_block(Arm*)	16	static
+../Core/Src/mission.cpp:224:6:void take_up_block_ninja(Arm*)	16	static
+../Core/Src/mission.cpp:239:6:void flip_block_ninja(Arm*)	16	static

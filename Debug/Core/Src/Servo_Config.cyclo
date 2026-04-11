@@ -1,0 +1,6 @@
+../Core/Inc/ServoArduinoType.h:58:15:static Info Servo::getServoInfo(type)	9
+../Core/Inc/ServoArduinoType.h:93:3:Servo::Servo(TIM_HandleTypeDef*, uint32_t, type)	1
+../Core/Inc/Arm_Motion.h:57:5:Arm::Arm(SideIndex, Servo*, Servo*, Servo*, Servo*, MagGroup*, MagGroup*, Airpump*)	1
+../Core/Src/Servo_Config.cpp:69:6:void write_in_robot_config()	1
+../Core/Src/Servo_Config.cpp:140:1:void __static_initialization_and_destruction_0()	1
+../Core/Src/Servo_Config.cpp:140:1:cpp)	1

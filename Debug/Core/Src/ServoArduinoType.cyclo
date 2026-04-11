@@ -1,0 +1,10 @@
+../Core/Src/ServoArduinoType.cpp:14:6:void Servo::setMaxServoSpeed(float)	1
+../Core/Src/ServoArduinoType.cpp:18:6:void Servo::setup(int)	1
+../Core/Src/ServoArduinoType.cpp:24:6:void Servo::attach(uint32_t)	1
+../Core/Src/ServoArduinoType.cpp:28:6:void Servo::setTimer(TIM_HandleTypeDef*)	1
+../Core/Src/ServoArduinoType.cpp:32:6:void Servo::setMaxAngle(int)	1
+../Core/Src/ServoArduinoType.cpp:36:6:void Servo::setPulseRange(int, int)	1
+../Core/Src/ServoArduinoType.cpp:41:6:void Servo::write(int)	8
+../Core/Src/ServoArduinoType.cpp:52:6:void Servo::detach()	1
+../Core/Src/ServoArduinoType.cpp:57:5:int Servo::turnTo(int, int)	6
+../Core/Src/ServoArduinoType.cpp:72:6:void Servo::Update(int)	3

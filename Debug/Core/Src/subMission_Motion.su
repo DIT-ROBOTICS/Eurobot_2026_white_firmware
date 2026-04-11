@@ -1,0 +1,6 @@
+../Core/Src/subMission_Motion.cpp:29:6:void sub_servo_init()	8	static
+../Core/Src/subMission_Motion.cpp:38:6:void sub_servo_update(int)	16	static
+../Core/Src/subMission_Motion.cpp:45:6:void sub_servo_sleep()	8	static
+../Core/Src/subMission_Motion.cpp:54:6:void submission_executor(void*)	48	static
+../Core/Src/subMission_Motion.cpp:72:6:void align_blocks(bool)	16	static
+../Core/Src/subMission_Motion.cpp:83:6:void push_temp(SideIndex, bool)	16	static
